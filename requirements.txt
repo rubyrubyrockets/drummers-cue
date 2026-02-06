@@ -7,7 +7,7 @@ pretty_midi==0.2.10
 requests==2.32.3
 
 all-in-one-fix
-demucs-infer==1.0.2
+demucs-infer>=1.0.0,<2
 
 piper-tts==1.2.0
 
