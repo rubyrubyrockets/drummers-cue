@@ -4,12 +4,6 @@ pydub==0.25.1
 soundfile==0.12.1
 librosa==0.10.2.post1
 pretty_midi==0.2.10
-
 all-in-one-fix==0.4.2
 demucs-infer==1.0.2
-
-# ADTOF-based transcription (если ставится из pip — ок; если нет, см. README)
-adtof_plus_drum_transcription==0.1.0
-
-# Piper TTS CLI wrapper (CLI должен быть в системе)
 piper-tts==1.2.0
