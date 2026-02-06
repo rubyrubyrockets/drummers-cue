@@ -6,10 +6,4 @@ librosa==0.10.2.post1
 pretty_midi==0.2.10
 requests==2.32.3
 
-all-in-one-fix
 demucs==4.0.1
-
-piper-tts==1.2.0
-
-# ADTOF-based drum transcription (может не ставиться через pip в Cloud; см. README ниже)
-adtof_plus_drum_transcription==0.1.0
