@@ -6,7 +6,7 @@ librosa==0.10.2.post1
 pretty_midi==0.2.10
 requests==2.32.3
 
-all-in-one-fix==0.4.2
+all-in-one-fix
 demucs-infer==1.0.2
 
 piper-tts==1.2.0
