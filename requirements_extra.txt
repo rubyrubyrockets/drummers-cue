@@ -1,0 +1,18 @@
+# ===== Advanced audio structure analysis =====
+# Определение частей трека (intro / verse / chorus / bridge / outro)
+all-in-one-fix
+
+# ===== Source separation (drums stem) =====
+demucs>=4.0.0
+
+# ===== Drum transcription to MIDI =====
+# ADTOF-based project (часто не ставится в Cloud)
+adtof_plus_drum_transcription==0.1.0
+
+# ===== Text-to-Speech (voice cues) =====
+# Piper TTS (onnx runtime + system deps)
+piper-tts==1.2.0
+
+# ===== Optional ML helpers =====
+torch>=2.0
+torchaudio>=2.0
